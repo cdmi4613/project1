@@ -317,7 +317,7 @@ body.fixed{
 	line-height: 25px;
 	padding-left: 20px;
 	padding-right: 30px;
-	background: url(https://cdmi4613.github.io/resource/web_publisher/project1/btn-outlink-16.png) no-repeat center right 10px;
+	background: url(./images/btn-outlink-16.png) no-repeat center right 10px;
 }
 
 .main_slider {
@@ -446,14 +446,14 @@ body.fixed{
 }
 
 #pause_play.pause {
-	background: url(https://cdmi4613.github.io/resource/web_publisher/project1/btn_mega_bnr_pause.png) no-repeat center right;
+	background: url(./images/btn_mega_bnr_pause.png) no-repeat center right;
 	
 	background-color:rgba(86, 86, 85, 0.736);
 	border-radius: 20px;
 
 }
 #pause_play.play {
-	background: url(https://cdmi4613.github.io/resource/web_publisher/project1/btn_mega_bnr_play.png) no-repeat center right;
+	background: url(./images/btn_mega_bnr_play.png) no-repeat center right;
 
 	background-color:rgba(86, 86, 85, 0.736);
 	border-radius: 20px;
@@ -555,7 +555,7 @@ section .title {
 }
 
 #page2 {
-	background: url(https://cdmi4613.github.io/resource/web_publisher/project1/page3_main_bg.jpg) no-repeat center center;
+	background: url(./images/page3_main_bg.jpg) no-repeat center center;
 	padding: 92px 0 110px 0;
 	white-space: nowrap;
 	background-size: cover;
@@ -810,7 +810,7 @@ section .title {
 	height: 3em;
     line-height: 54px;
     color: #fff;
-	background: url(https://cdmi4613.github.io/resource/web_publisher/project1/btn_arrow_right.png) no-repeat center right 10px;
+	background: url(./images/btn_arrow_right.png) no-repeat center right 10px;
 	/* padding: 0 145px 0 20px; */
 	padding: 0 50% 0 20px;
     background-color: #e7280e;
@@ -858,7 +858,7 @@ section .title {
 }
 
 #page4 .customer_area .notice_left .title_top a{
-	background: url(https://cdmi4613.github.io/resource/web_publisher/project1/btn-arr-16-black-sm.png) no-repeat center right ;
+	background: url(./images/btn-arr-16-black-sm.png) no-repeat center right ;
 	padding-right: 15px;
 }
 
@@ -905,7 +905,7 @@ section .title {
 }
 
 #page4 .customer_area .faq_right .title_top a{
-	background: url(https://cdmi4613.github.io/resource/web_publisher/project1/btn-arr-16-black-sm.png) no-repeat center right ;
+	background: url(./images/btn-arr-16-black-sm.png) no-repeat center right ;
 	padding-right: 15px;
 }
 
@@ -1068,7 +1068,7 @@ section .title {
     font-size: 0.9em;
     line-height: 25px;
 	padding: 5px 30px 5px 15px;
-    background: url(https://cdmi4613.github.io/resource/web_publisher/project1/btn-outlink-16.png) no-repeat center right 10px;
+    background: url(./images/btn-outlink-16.png) no-repeat center right 10px;
 	background-color: #eaeaea;
 	border-radius: 20px;
 }
